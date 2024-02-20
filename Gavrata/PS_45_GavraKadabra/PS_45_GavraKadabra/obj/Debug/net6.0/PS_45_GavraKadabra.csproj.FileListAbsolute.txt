@@ -1,0 +1,15 @@
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\bin\Debug\net6.0\PS_45_GavraKadabra.exe
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\bin\Debug\net6.0\PS_45_GavraKadabra.deps.json
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\bin\Debug\net6.0\PS_45_GavraKadabra.runtimeconfig.json
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\bin\Debug\net6.0\PS_45_GavraKadabra.dll
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\bin\Debug\net6.0\PS_45_GavraKadabra.pdb
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.csproj.AssemblyReference.cache
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.AssemblyInfoInputs.cache
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.AssemblyInfo.cs
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.csproj.CoreCompileInputs.cache
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.dll
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\refint\PS_45_GavraKadabra.dll
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.pdb
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\PS_45_GavraKadabra.genruntimeconfig.cache
+D:\Student\Gavrata\PS_45_GavraKadabra\PS_45_GavraKadabra\obj\Debug\net6.0\ref\PS_45_GavraKadabra.dll
